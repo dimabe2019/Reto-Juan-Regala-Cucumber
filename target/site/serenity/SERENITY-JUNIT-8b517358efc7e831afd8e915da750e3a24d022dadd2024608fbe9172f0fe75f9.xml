@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="HU-001 Buscador JuanRegala" skipped="0" tests="1" time="56.94" timestamp="2021-06-03 12:25:31"><testcase name="Buscar palabra en el buscador de JuanRegala exitoso"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+utils.Excel.readExcel(Excel.java:41)&#13;
+steps.JuanRegalaSteps.buscarProductoEnJuanRegala(JuanRegalaSteps.java:65)&#13;
+stepsDefinitions.BuscadorJuanRegalaStepDefinitions.buscoElProductoEnElBuscador(BuscadorJuanRegalaStepDefinitions.java:25)&#13;
+✽.busco el producto en el buscador(src/test/resources/features/BuscadorJuanRegala.feature:8)&#13;
+</system-err></testcase></testsuite>

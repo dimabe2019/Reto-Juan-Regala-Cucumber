@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HU-001 Buscador JuanRegala" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T02:32:08" hostname="DIEGOMARTINEZ" time="107.786">
+  <properties/>
+  <testcase name="Buscar palabra en el buscador de JuanRegala exitoso" classname="HU-001 Buscador JuanRegala" time="107.786"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 3503
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 03, 2021 9:32:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
